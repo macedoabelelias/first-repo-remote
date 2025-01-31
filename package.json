@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "bootstrap": "^5.3.3",
-    "jquery": "^3.7.1"
+    "jquery": "^3.7.1",
+    "todash": "~2.4.0"
   },
   "name": "first-repo-remote",
   "version": "1.0.0",
@@ -12,5 +13,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "MIT"
 }
